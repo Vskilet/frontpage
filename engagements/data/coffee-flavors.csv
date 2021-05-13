@@ -1,0 +1,22 @@
+ids,labels,parents,text
+jeunesse,Jeunesse,
+tech,Technique,
+job,Travail,
+j-gdj,GDJ,jeunesse,"<b>Cible: </b>Jeunes du CB de Haguenau<br /><b>Pourquoi: </b>J'ai été appelé à cette tâche et j'ai des compétences pour la réaliser"
+j-ajr,AJR,jeunesse,"<b>Cible: </b>Délégués AJR<br /><b>Pourquoi: </b>J'ai été appelé à cette tâche et j'ai des compétences pour la réaliser"
+j-gdj-berger,Accompagnateur,j-gdj,"<b>Cible: </b>Nicolas et Théo<br /><b>Pourquoi: </b>J'ai à coeur de faire des disciples de multiplier"
+j-gdj-formation,Formateur,j-gdj,"<b>Cible: </b>Animateur/trice GDJ<br /><b>Pourquoi: </b>J'ai à coeur de former la relève"
+j-gdj-orga,Organisateur,j-gdj,"<b>Cible: </b>GDJ CB<br /><b>Pourquoi: </b>Je trouve nécessaire d'être intentionnel et organisé pour guider un groupe"
+j-gdj-direction,Dirige,j-gdj,"<b>Cible: </b>GDJ CB<br /><b>Pourquoi: </b>Je prépare les documents d'orientation et la trame des études"
+j-ajr-formation,Formateur,j-ajr,"<b>Cible: </b>Animateurs/trices Pôle Haguenau<br /><b>Pourquoi: </b>Pour multiplier à plus grande échelle que l'Eglise locale"
+j-ajr-vivre,Faire vivre le réseau,j-ajr,"<b>Cible: </b>GDJ Pôle Haguenau<br /><b>Pourquoi: </b>Je veux être acteur de l'Eglise en réseau de demain"
+j-ajr-com,Communication,j-ajr,"<b>Cible: </b>Pôle Haguenau<br /><b>Pourquoi: </b>Être un bon communiquant est un nécessaire pour faire vivre correctement un mouvement"
+tech-sono-culte,Sonorisation Culte,tech,"<b>Cible: </b>CB<br /><b>Pourquoi: </b>Utilisation de mes dons techniques au sein de l'Eglise locale"
+tech-sono-event,Sono évènementiel,tech,"<b>Cible: </b>Cercle amis large<br /><b>Pourquoi: </b>Rendre service au personnes que je connais"
+tech-host,Hébergement de service,tech,"<b>Cible: </b>Internet<br /><b>Pourquoi: </b>J'aime pouvoir utiliser mes compétences techniques pour pouvoir offrir un service de qualité"
+tech-apc,Site APC,tech,"<b>Cible: </b>Eglises APC<br /><b>Pourquoi: </b>Pour réduire les coûts d'APC et utiliser mes dons techniques au delà de l'Eglise locale"
+tech-info,Dépannage informatique,tech,"<b>Cible: </b>Famille et CB<br /><b>Pourquoi: </b>Rendre service au personnes qui m'entoure"
+job-faire,Ingénieur,job
+job-formaiton,Me former,job
+job-temoin,Être Témoin,job
+
