@@ -1,4 +1,4 @@
-Plotly.d3.csv('data/coffee-flavors.csv', function(err, rows){
+Plotly.d3.csv('data/victor.csv', function(err, rows){
     function unpack(rows, key) {
     return rows.map(function(row) {return row[key]})
   }
